@@ -108,13 +108,4 @@ Git · ServiceNow · Jupyter · Supabase · Vercel
 Machine Learning · Data Analysis · Artificial Intelligence · Predictive Modeling · Data Visualization · Deep Learning
 
 ---
-
-## 📬 Get in Touch
-
-- 📧 **Email:** [nabeelkhannn13@gmail.com](mailto:nabeelkhannn13@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/nabeelkhan](https://linkedin.com/) _(Add your actual link)_  
-- 🖥️ **Portfolio:** [nabeelkhan.dev](https://nabeelkhan.dev) _(Optional)_  
-- 🐙 **GitHub:** [github.com/nabeelkhan](https://github.com/) _(Add your actual link)_
-
----
 ⭐ _“Turning data into insights, and insights into impact.”_
